@@ -1,0 +1,6 @@
+{
+  "name": "AURA Modern E-Commerce & Inventory Management",
+  "description": "Full-featured e-commerce platform with login authentication, shopping showcase, cart, secure checkout, and real-time inventory tracking and sales analytics for administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
